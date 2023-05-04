@@ -5,7 +5,7 @@ import lombok.Data;
 @Data
 public class DashboardResponse {
 	
-	private Integer totalEnquries;
+	private Integer totalEnquriesCnt;
 	
 	private Integer enrolledCnt;
 	
